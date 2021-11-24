@@ -1,1 +1,1 @@
-// Prosto primer faila cac arinna tupit
+// Prosto primer faila cac arinna netupit
